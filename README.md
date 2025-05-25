@@ -3,9 +3,9 @@ Information and code for some Xilinx, Gowin and Lattice ICE FPGAs
 
 Covering these boards and FPGAs.   
 
-|--------------|----------------|--------------------|----------------|
-| Manufacturer | Board	        | FPGA Manufacturer  | FPGA           |
-| Gowin	       | DK_START_GW2A	| Gowin	             | GW2A-LV18PG256 |
+|--------------|----------------|--------------------|----------------|   
+| Manufacturer | Board	        | FPGA Manufacturer  | FPGA           |   
+| Gowin	       | DK_START_GW2A	| Gowin	             | GW2A-LV18PG256 |   
 
 Sipeed	Tang Nano 9k	Gowin	GW1NR-LV9 QN88P
 Sipeed	Tang Nano 20k	Gowin	GW2AR-18
